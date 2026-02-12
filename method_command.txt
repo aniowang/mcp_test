@@ -1,3 +1,0 @@
-# Method 1: Git Command Line
-This file is uploaded via Git command line.
-Created: 2026-02-12
